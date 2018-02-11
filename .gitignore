@@ -7,7 +7,6 @@ _theme_packages/*
 .rbenv-version
 .rvmrc
 
-*.lock
 
 # OS generated files #
 ######################
